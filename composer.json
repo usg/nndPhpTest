@@ -1,0 +1,19 @@
+{
+    "name": "gaofeng/nnd-php-test",
+    "description": "just test",
+    "require": {
+        "php": "8.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "NndPhpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gaof",
+            "email": "gaofeng@nndrobot.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
