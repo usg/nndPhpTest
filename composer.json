@@ -1,6 +1,7 @@
 {
     "name": "gaofeng/nnd-php-test",
     "description": "just test",
+    "license": "MIT",
     "require": {
         "php": "8.0.2"
     },
